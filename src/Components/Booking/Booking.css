@@ -1,0 +1,15 @@
+.form-outline{
+width: 20%;
+}
+.lower_part{
+    margin-left: 60px; 
+    margin-right: 10px;
+    padding: 10px;
+    border: 1px solid red
+}
+.show{
+    border: 1px solid red;
+    border-radius: 10px;
+    padding:10px;
+    margin: 20px;
+}

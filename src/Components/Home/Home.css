@@ -1,0 +1,19 @@
+.car{
+   background-color: white;
+   text-align: center;
+   width:20%;
+   margin-left: 500px;
+
+}
+.header{
+   text-align: center;
+   color:white;
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100%;
+    
+}
+.row{
+   display: grid;
+}
