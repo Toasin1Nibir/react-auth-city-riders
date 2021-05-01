@@ -1,3 +1,7 @@
-Website Name: City Riders
 Website Link: https://city-riders-ec1f0.web.app/
-Its basically react router authentication assignment
+Website Name: City Riders
+Project Description: 
+•	It is basically react-router firebase authentication project 
+•	Authenticated user can book ticket from this website.
+•	User can set their respective destination. 
+
